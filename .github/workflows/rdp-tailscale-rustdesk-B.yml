@@ -63,7 +63,7 @@ jobs:
     timeout-minutes: 370
     env:
       RDP_USER: AXNASIF99
-      RDP_PASS: @ASIF123
+      RDP_PASS: @ASIF1234
 
     steps:
       - name: Set CRD flag early (safe read)
